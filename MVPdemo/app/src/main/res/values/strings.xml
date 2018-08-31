@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MVP demo</string>
+    <string name="pick_a_color">Pick a color</string>
+    <string name="red">Red</string>
+    <string name="blue">blue</string>
+    <string name="yellow">yellow</string>
+    <string name="change_color">change color</string>
+    <string name="red_color">#E53935</string>
+    <string name="blue_color">#64B5F6</string>
+    <string name="yellow_color">#FFEB3B</string>
+    <string name="white_color">#FFFFFF</string>
+</resources>
